@@ -15,4 +15,5 @@ you can read about the challenges here [README.md](src/main/java/google/foobar/l
 
 # Level 3
 Level 3's first challenge is [Queue To Do](src/main/java/google/foobar/level3/QueueToDo.java)
-you can read about the challenge here [README.md](src/main/java/google/foobar/level3/README.md).
+and the second challend is [BombBaby](src/main/java/google/foobar/level3/BombBaby.java)
+you can read about the challenges here [README.md](src/main/java/google/foobar/level3/README.md).
