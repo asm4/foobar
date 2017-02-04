@@ -34,7 +34,7 @@ package google.foobar.level2;
  Output:
  (int) 4
  */
-public class Challenge1 {
+public class EnRouteSalute {
 	public static final char WALKING_LEFT = '<';
 	public static final char WALKING_RIGHT = '>';
 

@@ -31,10 +31,8 @@ import java.util.*;
  (int list) xs = [-2, -3, 4, -5]
  Output:
  (string) "60"
-
- Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
  */
-public class Challenge2 {
+public class PowerHungry {
 	public static String answer(int[] xs) {
 		BigInteger powerOutput = null;
 		// Store the negative values in order so that the largest value (i.e. smallest absolute value) is always first
