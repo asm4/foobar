@@ -12,3 +12,7 @@ you can read about the challenge here [README.md](src/main/java/google/foobar/le
 Level 2 had two challenges [En Route Salute](src/main/java/google/foobar/level2/EnRouteSalute.java)
 and [Power Hungry](src/main/java/google/foobar/level2/PowerHungry.java)
 you can read about the challenges here [README.md](src/main/java/google/foobar/level2/README.md).
+
+# Level 3
+Level 3's first challenge is [Queue To Do](src/main/java/google/foobar/level3/QueueToDo.java)
+you can read about the challenge here [README.md](src/main/java/google/foobar/level3/README.md).
